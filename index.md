@@ -4,3 +4,5 @@ Projektmanager, Prozessmanager, zuständig für alle Themen rund um BIM und CAFM
 Speziell: Datenmanagement, Einführung vom CAFM Prozessen
 
 
+Lieblingssätze:
+> work in progress
